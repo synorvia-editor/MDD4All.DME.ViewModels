@@ -48,9 +48,7 @@
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="MDD4All.Reflection.TypeAnalyzer" Version="2.0.0.7" />
-    <PackageReference Include="MDD4All.UI.DataModels" Version="2.0.0.3" />
     <PackageReference Include="MDD4All.Configuration" Version="3.0.0.15" />
-    <PackageReference Include="MDD4All.FileAccess.Contracts" Version="2.0.1.4" />
   </ItemGroup>
 
   <!-- Waiting on a package. None of these is published yet, so no package can be built
@@ -58,11 +56,15 @@
          MDD4All.Localization
          MDD4All.AssemblyLoading.Contracts
          MDD4All.DME.AssemblyTree
-         MDD4All.DME.DataAccess  -  prepared, not published -->
+         MDD4All.DME.DataAccess  -  prepared, not published
+         Synorvia.UI.DataModels
+         Synorvia.FileAccess.Contracts -->
   <ItemGroup>
     <ProjectReference Include="..\..\..\MDD4All.Localization\src\MDD4All.Localization\MDD4All.Localization-dev.csproj" />
     <ProjectReference Include="..\..\..\MDD4All.AssemblyLoading.Contracts\src\MDD4All.AssemblyLoading.Contracts\MDD4All.AssemblyLoading.Contracts-dev.csproj" />
     <ProjectReference Include="..\..\..\MDD4All.DME.AssemblyTree\src\MDD4All.DME.AssemblyTree\MDD4All.DME.AssemblyTree-dev.csproj" />
     <ProjectReference Include="..\..\..\MDD4All.DME.DataAccess\src\MDD4All.DME.DataAccess\MDD4All.DME.DataAccess-dev.csproj" />
+    <ProjectReference Include="..\..\..\Synorvia.UI.DataModels\src\Synorvia.UI.DataModels\Synorvia.UI.DataModels-dev.csproj" />
+    <ProjectReference Include="..\..\..\Synorvia.FileAccess.Contracts\src\Synorvia.FileAccess.Contracts\Synorvia.FileAccess.Contracts-dev.csproj" />
   </ItemGroup>
 </Project>

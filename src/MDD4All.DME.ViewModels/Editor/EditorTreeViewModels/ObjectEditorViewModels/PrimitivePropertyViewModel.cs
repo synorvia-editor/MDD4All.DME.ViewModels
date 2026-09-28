@@ -2,7 +2,7 @@
 using MDD4All.Reflection;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using MDD4All.UI.DataModels.Tree;
+using Synorvia.UI.DataModels.Tree;
 using System;
 
 namespace MDD4All.DME.ViewModels.Editor

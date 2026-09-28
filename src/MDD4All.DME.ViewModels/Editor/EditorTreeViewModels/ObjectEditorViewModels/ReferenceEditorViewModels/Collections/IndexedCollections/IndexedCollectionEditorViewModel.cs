@@ -1,7 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.Input;
 using MDD4All.Reflection;
 using MDD4All.ObjectGraph.Access;
-using MDD4All.UI.DataModels.Tree;
+using Synorvia.UI.DataModels.Tree;
 using System;
 using System.Collections;
 using System.ComponentModel;

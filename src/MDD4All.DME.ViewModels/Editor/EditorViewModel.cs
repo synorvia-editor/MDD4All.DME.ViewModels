@@ -3,7 +3,7 @@ using MDD4All.DME.ViewModels.Editor;
 using MDD4All.DME.ViewModels.Editor.Settings;
 using MDD4All.DME.ViewModels.Localization;
 using MDD4All.Localization.Contracts;
-using MDD4All.UI.DataModels.Tree;
+using Synorvia.UI.DataModels.Tree;
 using System;
 using System.ComponentModel;
 

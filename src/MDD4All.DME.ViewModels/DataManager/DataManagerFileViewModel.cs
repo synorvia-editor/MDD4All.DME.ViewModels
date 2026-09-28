@@ -3,7 +3,7 @@ using MDD4All.DME.DataAccess.Serialization;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using MDD4All.DME.Configurations;
-using MDD4All.FileAccess.Contracts;
+using Synorvia.FileAccess.Contracts;
 using System;
 using System.ComponentModel;
 using System.IO;

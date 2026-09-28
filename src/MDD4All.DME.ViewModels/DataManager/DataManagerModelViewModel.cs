@@ -5,7 +5,7 @@ using CommunityToolkit.Mvvm.Input;
 using MDD4All.AssemblyLoading.Contracts;
 using MDD4All.DME.AssemblyTree.ViewModels;
 using MDD4All.DME.Configurations;
-using MDD4All.FileAccess.Contracts;
+using Synorvia.FileAccess.Contracts;
 using System.IO;
 using System.Reflection;
 using System.Threading;
