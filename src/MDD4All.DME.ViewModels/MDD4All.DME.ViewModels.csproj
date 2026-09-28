@@ -10,9 +10,9 @@
        build hands in the real one, read from src/version.txt plus the run number. -->
   <PropertyGroup>
     <Version>2.0.0.0</Version>
-    <Authors>mDuckLab</Authors>
+    <Authors>Dr. Oliver Alt, mDuckLab</Authors>
     <Company>MDD4All.de</Company>
-    <Copyright>(c) 2026 mDuckLab</Copyright>
+    <Copyright>(c) 2026 oalt, mDuckLab</Copyright>
     <Description>The view models of MDD4All.DME, the object graph editor: the tree built from whatever object it is handed, the open document, the settings, and the rules a data model declares through its annotations.</Description>
     <PackageTags>MVVM ViewModels ObjectGraph Editor DataAnnotations</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>

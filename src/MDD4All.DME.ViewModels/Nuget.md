@@ -7,3 +7,6 @@ model declares through its annotations.
 
 Written for MDD4All.DME and shaped by it. Useful elsewhere only where something is built
 along the same lines.
+
+Parts of it were originally written by Dr. Oliver Alt, among them the descriptors
+for data files and data models and the editor state.
